@@ -1,2 +1,0 @@
-export const POKET_LOAD_SUCCESS = 'POKET_LOAD_SUCCESS';
-export const POKET_LOAD_FAIL = 'POKET_LOAD_FAIL';
