@@ -1,14 +1,8 @@
 import './App.css';
-import Counter from './components/Counter';
-import LoadData from './components/LoadData';
+import Name from './type_interface/type_interface';
 
 function App() {
-  return (
-    <div className="App">
-      <Counter />
-      <LoadData />
-    </div>
-  );
+  return <div className="App">{Name}</div>;
 }
 
 export default App;
